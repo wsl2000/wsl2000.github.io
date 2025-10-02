@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About me
+permalink: 
 subtitle: Job Hunting
 
 profile:
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-📖 I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt, just finished my thesis and actively seeking a PhD position. 
+📖 I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt; I have just finished my thesis and am actively seeking a PhD position.
 
-🧠 My research focuses on Brain-Computer Interfaces and Human-Computer Interfaces.
+🧠 My research interests focus on Brain-Computer Interfaces and Human-Computer Interfaces.
 
-🚀 I’m currently a Research Assistant at The Chinese University of Hong Kong (Shenzhen), supervised by Prof. Haizhou Li, and previously worked with the Shenzhen Institute of Advanced Integration Technology (CAS/CUHK-Shenzhen). I bring hands-on experience with EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
+🚀 I’m currently a Research Assistant at The Chinese University of Hong Kong (Shenzhen), supervised by Prof. Haizhou Li, and I previously worked with the Shenzhen Institute of Advanced Integration Technology (CAS/CUHK-Shenzhen). I have hands-on experience in EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
