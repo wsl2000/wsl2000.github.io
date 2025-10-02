@@ -25,10 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+📖 I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt, just finished my thesis and actively seeking a PhD position. 
 
+🧠 My research focuses on Brain-Computer Interfaces and Human-Computer Interfaces.
 
-I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt, just finished my thesis and actively seeking a PhD position. 
-
-🧠My research focuses on Brain-Computer Interfaces and Human-Computer Interfaces.
-
-I’m currently a Research Assistant at The Chinese University of Hong Kong (Shenzhen), supervised by Prof. Haizhou Li, and previously worked with the Shenzhen Institute of Advanced Integration Technology (CAS/CUHK-Shenzhen). I bring hands-on experience with EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
+🚀 I’m currently a Research Assistant at The Chinese University of Hong Kong (Shenzhen), supervised by Prof. Haizhou Li, and previously worked with the Shenzhen Institute of Advanced Integration Technology (CAS/CUHK-Shenzhen). I bring hands-on experience with EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
