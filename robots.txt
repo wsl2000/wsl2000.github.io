@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wsl2000.github.io/sitemap.xml
