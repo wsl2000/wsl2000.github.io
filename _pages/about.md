@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-📖 I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt; I have just finished my thesis and am actively seeking a PhD position.
+📖 I’m a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt; I am actively seeking a PhD position.
 
 🧠 My research interests focus on Brain-Computer Interfaces and Human-Computer Interfaces.
 
-🚀 I’m currently a Research Assistant at The Chinese University of Hong Kong (Shenzhen), supervised by Prof. Haizhou Li, and I previously worked with the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK). I have hands-on experience in EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
+🚀 I’m currently a Research Assistant at The Technical University of Darmstadt, supervised by **Prof. Charley Wu**, and I previously worked with The Chinese University of Hong Kong (Shenzhen), supervised by **Prof. Haizhou Li**, and the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK), supervised by **Prof. Peng Fang**. I have hands-on experience in EEG/sEEG/EMG signal processing, brain-to-text decoding, and large brain models.
