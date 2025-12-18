@@ -29,4 +29,6 @@ latest_posts:
 
 🧠 My research interests focus on Brain-Computer Interfaces and Human-Computer Interfaces.
 
-🚀 I am currently a Research Assistant at Technische Universität Darmstadt, supervised by **Prof. Charley Wu**. Previously, I worked with The Chinese University of Hong Kong (Shenzhen) under **Prof. Haizhou Li**, and with the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK), supervised by **Prof. Peng Fang**.
+🚀 I am currently a Research Assistant at Technische Universität Darmstadt, supervised by **Prof. Charley Wu**. 
+
+👋 Previously, I worked with The Chinese University of Hong Kong (Shenzhen) under **Prof. Haizhou Li**, and earlier with the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK).
