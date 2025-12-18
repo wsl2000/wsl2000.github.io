@@ -25,10 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-📖 I am a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt and will be joining **Prof. Chin-Teng Lin’s lab** as a Ph.D. student.
+📖 I am a soon-to-graduate M.Sc. student in Computer Science at Technische Universität Darmstadt. And currently a Research Assistant at Technische Universität Darmstadt, supervised by **Prof. Charley Wu**. 
 
 🧠 My research interests focus on Brain-Computer Interfaces and Human-Computer Interfaces.
 
-🚀 I am currently a Research Assistant at Technische Universität Darmstadt, supervised by **Prof. Charley Wu**. 
-
-👋 Previously, I worked with The Chinese University of Hong Kong (Shenzhen) under **Prof. Haizhou Li**, and earlier with the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK).
+🚀 Previously, I worked with The Chinese University of Hong Kong (Shenzhen) under **Prof. Haizhou Li**, and earlier with the Shenzhen Institute of Advanced Integration Technology (Chinese Academy of Sciences & CUHK).
